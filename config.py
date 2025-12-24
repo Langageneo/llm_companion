@@ -1,5 +1,7 @@
 import os
-import openai
+from openai import OpenAI
 
-# Charge la clé depuis l'environnement
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+    base_url=os.getenv("OPENAI_BASE_URL", None)
+)
