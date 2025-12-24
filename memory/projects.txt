@@ -1,0 +1,3 @@
+- Construction d’un LLM compagnon personnel en Python + API.
+- Apprentissage approfondi des architectures IA simples et durables.
+- Structuration d’un environnement de travail propre (GitHub, Termux).
