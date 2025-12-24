@@ -1,0 +1,2 @@
+Décisions importantes, apprentissages, erreurs à éviter.
+Ce fichier sert de mémoire longue durée intentionnelle.
